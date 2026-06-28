@@ -1,0 +1,14 @@
+{
+  "name": "adhub-backend",
+  "version": "1.0.0",
+  "description": "AD.HUB Backend",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "nest start",
+    "start:dev": "nest start --watch",
+    "build": "nest build",
+    "lint": "eslint . --ext .ts",
+    "test": "jest"
+  }
+}
